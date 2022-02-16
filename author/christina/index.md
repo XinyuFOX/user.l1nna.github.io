@@ -3,7 +3,7 @@ name: Christina Hu
 designation : Master's Student
 items:
  - Undergraduate, Queen's University
-interest:  Machine Learning, Natural Language Processing, Data Mining
+interest:  Natural Language Processing, Data Mining, Cybersecurity
 email: christina.hu@queensu.ca
 photo: /images/team/christina_hu.jpg
 bio:
